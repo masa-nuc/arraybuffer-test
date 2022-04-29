@@ -11,7 +11,7 @@
 Runs on the git-bash
 
 ~~~
-$ ./start_all.sh 16 1
+$ ./start_all.sh -a 16 -c 1
  :
  :
 Total allocated ArrayBuffer:16.00 GiB, chunk:1.00 MiB @ Electron:8.5.5, Node:12.13.0, Chrome:80.0.3987.163
@@ -25,7 +25,7 @@ Total allocated ArrayBuffer:4.00 GiB, chunk:1.00 MiB @ Electron:16.2.3, Node:16.
 Total allocated ArrayBuffer:3.99 GiB, chunk:1.00 MiB @ Electron:17.4.1, Node:16.13.0, Chrome:98.0.4758.141
 Total allocated ArrayBuffer:3.99 GiB, chunk:1.00 MiB @ Electron:18.1.0, Node:16.13.2, Chrome:100.0.4896.127
 
-$ ./start_all.sh 16 8
+$ ./start_all.sh -a 16 -c 8
  :
  :
 Total allocated ArrayBuffer:16.00 GiB, chunk:8.00 MiB @ Electron:8.5.5, Node:12.13.0, Chrome:80.0.3987.163
@@ -39,7 +39,7 @@ Total allocated ArrayBuffer:6.39 GiB, chunk:8.00 MiB @ Electron:16.2.3, Node:16.
 Total allocated ArrayBuffer:6.39 GiB, chunk:8.00 MiB @ Electron:17.4.1, Node:16.13.0, Chrome:98.0.4758.141
 Total allocated ArrayBuffer:6.39 GiB, chunk:8.00 MiB @ Electron:18.1.0, Node:16.13.2, Chrome:100.0.4896.127
 
-$ ./start_all.sh 16 128
+$ ./start_all.sh -a 16 -c 128
  :
  :
 Total allocated ArrayBuffer:16.00 GiB, chunk:128.00 MiB @ Electron:8.5.5, Node:12.13.0, Chrome:80.0.3987.163
@@ -53,7 +53,7 @@ Total allocated ArrayBuffer:7.75 GiB, chunk:128.00 MiB @ Electron:16.2.3, Node:1
 Total allocated ArrayBuffer:7.75 GiB, chunk:128.00 MiB @ Electron:17.4.1, Node:16.13.0, Chrome:98.0.4758.141
 Total allocated ArrayBuffer:7.75 GiB, chunk:128.00 MiB @ Electron:18.1.0, Node:16.13.2, Chrome:100.0.4896.127
 
-$ ./start_all.sh 16 1024
+$ ./start_all.sh -a 16 -c 1024
  :
  :
 Total allocated ArrayBuffer:16.00 GiB, chunk:1.00 GiB @ Electron:8.5.5, Node:12.13.0, Chrome:80.0.3987.163
