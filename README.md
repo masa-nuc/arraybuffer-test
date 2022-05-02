@@ -2,7 +2,7 @@
 
 Test the ArrayBuffer limits between different versions of electron (from v8 to v18) at main process.
 
-## npm intall for target versions
+## npm install for target versions
 ~~~
 $ ./install_all.sh
 ~~~
