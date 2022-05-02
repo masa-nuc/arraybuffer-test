@@ -8,9 +8,7 @@ let mainWindow = null;
 const makeEnvText = header => `${header}, Electron:${process.versions.electron}, Node:${process.versions.node}, Chrome:${process.versions.chrome}`;
 
 app.on('window-all-closed', function () {
-  if (process.platform !== 'darwin') {
-    app.quit();
-  }
+  app.quit();
 });
 
 app.on('ready', function () {
