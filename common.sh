@@ -13,6 +13,7 @@ function npm_start() {
 }
 
 declare -a version_array=(
+  "node-test"
   "v08"
   "v09"
   "v10"
