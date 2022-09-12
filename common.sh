@@ -25,4 +25,5 @@ declare -a version_array=(
   "v16"
   "v17"
   "v18"
+  "v22.nightly.20220909"
 )

@@ -15,6 +15,7 @@ app.on('ready', function () {
   mainWindow = new BrowserWindow({
     webPreferences: {
       preload: path.join(__dirname, 'browserWindow', 'preload.js'),
+      sandbox: false, // preload.js uses require('../common/testMemoryUsage');
     },
     width: 100,
     height: 100,

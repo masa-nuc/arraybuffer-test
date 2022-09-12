@@ -1,5 +1,5 @@
 {
-  "name": "v15",
+  "name": "v22-nightly.20220909",
   "version": "1.0.0",
   "description": "",
   "main": "../index.js",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^15.5.7"
+    "electron-nightly": "^22.0.0-nightly.20220909"
   }
 }
