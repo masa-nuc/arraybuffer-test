@@ -36,6 +36,8 @@ Total allocated ArrayBuffer:3.99 GiB, chunk:1.00 MiB @ Browser Win , Electron:17
 Total allocated ArrayBuffer:3.99 GiB, chunk:1.00 MiB @ Main Process, Electron:17.4.11, Node:16.13.0, Chrome:98.0.4758.141
 Total allocated ArrayBuffer:3.99 GiB, chunk:1.00 MiB @ Browser Win , Electron:18.3.12, Node:16.13.2, Chrome:100.0.4896.160
 Total allocated ArrayBuffer:3.99 GiB, chunk:1.00 MiB @ Main Process, Electron:18.3.12, Node:16.13.2, Chrome:100.0.4896.160
+Total allocated ArrayBuffer:8.00 GiB, chunk:1.00 MiB @ Browser Win , Electron:21.0.0-beta.7, Node:16.16.0, Chrome:106.0.5249.40
+Total allocated ArrayBuffer:8.00 GiB, chunk:1.00 MiB @ Main Process, Electron:21.0.0-beta.7, Node:16.16.0, Chrome:106.0.5249.40
 Total allocated ArrayBuffer:8.00 GiB, chunk:1.00 MiB @ Browser Win , Electron:22.0.0-nightly.20220909, Node:16.17.0, Chrome:107.0.5286.0
 Total allocated ArrayBuffer:8.00 GiB, chunk:1.00 MiB @ Main Process, Electron:22.0.0-nightly.20220909, Node:16.17.0, Chrome:107.0.5286.0
 
@@ -64,6 +66,8 @@ Total allocated ArrayBuffer:6.38 GiB, chunk:8.00 MiB @ Browser Win , Electron:17
 Total allocated ArrayBuffer:6.38 GiB, chunk:8.00 MiB @ Main Process, Electron:17.4.11, Node:16.13.0, Chrome:98.0.4758.141
 Total allocated ArrayBuffer:6.38 GiB, chunk:8.00 MiB @ Browser Win , Electron:18.3.12, Node:16.13.2, Chrome:100.0.4896.160
 Total allocated ArrayBuffer:6.38 GiB, chunk:8.00 MiB @ Main Process, Electron:18.3.12, Node:16.13.2, Chrome:100.0.4896.160
+Total allocated ArrayBuffer:12.80 GiB, chunk:8.00 MiB @ Browser Win , Electron:21.0.0-beta.7, Node:16.16.0, Chrome:106.0.5249.40
+Total allocated ArrayBuffer:12.80 GiB, chunk:8.00 MiB @ Main Process, Electron:21.0.0-beta.7, Node:16.16.0, Chrome:106.0.5249.40
 Total allocated ArrayBuffer:12.80 GiB, chunk:8.00 MiB @ Browser Win , Electron:22.0.0-nightly.20220909, Node:16.17.0, Chrome:107.0.5286.0
 Total allocated ArrayBuffer:12.80 GiB, chunk:8.00 MiB @ Main Process, Electron:22.0.0-nightly.20220909, Node:16.17.0, Chrome:107.0.5286.0
 
@@ -92,6 +96,8 @@ Total allocated ArrayBuffer:7.75 GiB, chunk:128.00 MiB @ Browser Win , Electron:
 Total allocated ArrayBuffer:7.75 GiB, chunk:128.00 MiB @ Main Process, Electron:17.4.11, Node:16.13.0, Chrome:98.0.4758.141
 Total allocated ArrayBuffer:7.75 GiB, chunk:128.00 MiB @ Browser Win , Electron:18.3.12, Node:16.13.2, Chrome:100.0.4896.160
 Total allocated ArrayBuffer:7.75 GiB, chunk:128.00 MiB @ Main Process, Electron:18.3.12, Node:16.13.2, Chrome:100.0.4896.160
+Total allocated ArrayBuffer:15.75 GiB, chunk:128.00 MiB @ Browser Win , Electron:21.0.0-beta.7, Node:16.16.0, Chrome:106.0.5249.40
+Total allocated ArrayBuffer:15.75 GiB, chunk:128.00 MiB @ Main Process, Electron:21.0.0-beta.7, Node:16.16.0, Chrome:106.0.5249.40
 Total allocated ArrayBuffer:15.75 GiB, chunk:128.00 MiB @ Browser Win , Electron:22.0.0-nightly.20220909, Node:16.17.0, Chrome:107.0.5286.0
 Total allocated ArrayBuffer:15.75 GiB, chunk:128.00 MiB @ Main Process, Electron:22.0.0-nightly.20220909, Node:16.17.0, Chrome:107.0.5286.0
 
@@ -120,6 +126,8 @@ Total allocated ArrayBuffer:7.00 GiB, chunk:1.00 GiB @ Browser Win , Electron:17
 Total allocated ArrayBuffer:7.00 GiB, chunk:1.00 GiB @ Main Process, Electron:17.4.11, Node:16.13.0, Chrome:98.0.4758.141
 Total allocated ArrayBuffer:7.00 GiB, chunk:1.00 GiB @ Browser Win , Electron:18.3.12, Node:16.13.2, Chrome:100.0.4896.160
 Total allocated ArrayBuffer:7.00 GiB, chunk:1.00 GiB @ Main Process, Electron:18.3.12, Node:16.13.2, Chrome:100.0.4896.160
+Total allocated ArrayBuffer:15.00 GiB, chunk:1.00 GiB @ Browser Win , Electron:21.0.0-beta.7, Node:16.16.0, Chrome:106.0.5249.40
+Total allocated ArrayBuffer:15.00 GiB, chunk:1.00 GiB @ Main Process, Electron:21.0.0-beta.7, Node:16.16.0, Chrome:106.0.5249.40
 Total allocated ArrayBuffer:15.00 GiB, chunk:1.00 GiB @ Browser Win , Electron:22.0.0-nightly.20220909, Node:16.17.0, Chrome:107.0.5286.0
 Total allocated ArrayBuffer:15.00 GiB, chunk:1.00 GiB @ Main Process, Electron:22.0.0-nightly.20220909, Node:16.17.0, Chrome:107.0.5286.0
 ~~~
