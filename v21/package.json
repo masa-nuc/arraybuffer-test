@@ -1,5 +1,5 @@
 {
-  "name": "v11",
+  "name": "v21",
   "version": "1.0.0",
   "description": "",
   "main": "../index.js",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^11.0.0"
+    "electron": "^21.0.0"
   }
 }

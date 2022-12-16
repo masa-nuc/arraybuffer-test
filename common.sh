@@ -14,17 +14,7 @@ function npm_start() {
 
 declare -a version_array=(
   "node-test"
-  "v08"
-  "v09"
-  "v10"
-  "v11"
-  "v12"
-  "v13"
-  "v14"
-  "v15"
-  "v16"
-  "v17"
-  "v18"
-  "v21.beta.7"
-  "v22.nightly.20220909"
+  "v20"
+  "v21"
+  "v22"
 )
