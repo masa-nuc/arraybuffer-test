@@ -1,7 +1,7 @@
 const { app, BrowserWindow, ipcMain } = require('electron');
 const path = require('path');
 
-const { testMemoryUsage } = require('./common/testMemoryUsage');
+const { testArrayBufferUsage, testWasmMemoryUsage } = require('./common/testMemoryUsage');
 
 let mainWindow = null;
 
@@ -21,6 +21,8 @@ app.on('ready', function () {
     height: 100,
   });
   mainWindow.loadURL('file://' + __dirname + '/browserWindow/index.html');
+
+  // mainWindow.webContents.openDevTools();
 
   mainWindow.on('closed', function () {
     mainWindow = null;
@@ -44,7 +46,8 @@ ipcMain.on('testResult', (event, arg) => {
 
   // test at electron main process
   const env = makeEnvText('Main Process');
-  testMemoryUsage(env);
+  testArrayBufferUsage(env);
+  testWasmMemoryUsage(env);
 
   mainWindow.close();
 });
